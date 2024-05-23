@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<!DOCTYPE page>
+<page>
+    <header>Natneal</header>
+     <error>Your browser does not support HTML5 video.</error>
+    <home>
+        <title>Football best Game Ever</title>  
+        <desc>watch and enjoy your best game came on don't be shy</desc>
+    </home>
+    <tool>
+        <vedio>vedio.mp4</vedio>
+    </tool>
+    <animals>
+        <animal>
+            <name> Pistol Shrimp</name>
+            <desc>The loudest animal in the world</desc>
+        </animal>
+        <animal>
+            <name> Flamingos</name>
+            <desc>Flamingos are not pink. They are born grey, their diet of brine shrimp and blue green algae contains a natural pink dye called canthaxanthin that makes their feathers pink.</desc>
+        </animal>       
+        <animal>
+            <name> Hummingbirds </name>
+            <desc>Can also fly backwards</desc>
+        </animal>
+        <animal>
+            <name> Inland Taipan</name>
+            <desc>the most venomous snake in the world. A single bite contains enough venom to kill at least 100 fully grown men, and can kill within just 30 minutes, if left untreated</desc>
+        </animal>
+        <animal>
+            <name> Mayfly</name>
+            <desc>The shortest living animal in the world</desc>
+        </animal>
+        <animal>
+            <name> horned lizard</name>
+            <desc>can shot blood from its eye</desc>
+        </animal>
+    </animals>
+</page>
